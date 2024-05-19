@@ -40,4 +40,4 @@
     is_day	"yes"
 
     
-## IMPORTANT !! You must to create an account on apiweatherstack and mapbox in order to be able to have an acces key. I changed the code for URL in the src/utilsforecast and src/utilsgeocode.You need to delete that and paste your acces key/acces token
+## IMPORTANT !! You must to create an account on apiweatherstack and mapbox in order to be able to have an acces key. I changed the code for URL in the src/utils/forecast and src/utils/geocode.You need to delete that and paste your acces key/acces token
